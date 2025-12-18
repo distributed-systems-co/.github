@@ -1,6 +1,8 @@
-# International Distributed Systems Corporation (IDSC)
+# Distributed Systems & Co.
 
-Hi! I'm Arthur, the founder of IDSC. Distributed Systems is a platform built by IDSC to enable 1 person billion dollar companies. I built a platform for building and deploying autonomous AI agents that work together. Our agents communicate, learn, and adapt through natural language interactions.
+Hi! I'm Arthur, the founder of DSCO. 
+
+Distributed Systems is a platform built by DSCO to enable 1 person billion dollar companies by building and deploying autonomous AI agents that work together. Our agents communicate, learn, and adapt through natural language interactions.
 
 ![Landing Page](idsc.png)
 
