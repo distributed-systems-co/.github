@@ -39,5 +39,5 @@ Distributed Systems is a platform built by DSCO to enable 1 person billion dolla
 
 ## Links
 - Website: [distributed.systems](https://distributed.systems/)
-- GitHub: [international-distributed-systems-corp](https://github.com/international-distributed-systems-corp)
+- GitHub: [international-distributed-systems-corp]([https://github.com/international-distributed-systems-corp](https://github.com/distributed-systems-co))
 - Twitter/X: [Object Oriented Reinforcement Learning in Mutable Ontologies](https://x.com/arthurcolle/status/1881166459499622496)
